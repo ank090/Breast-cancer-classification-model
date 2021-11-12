@@ -1,5 +1,5 @@
 # Breast-cancer-classification-model
-This Classification is based on dataset where the Class or the severity of cancer is classified on the basis of vairous features of the tumour.  
+This Classification is based on dataset where the Class or the severity of cancer is classified on the basis of vairous features of the tumor.  
 
 ## Attributes:-  
 
